@@ -32,10 +32,10 @@ yarn dev
 4. View the application:
 Open your browser and go to http://localhost:3000 to see the result.
 
-Project Structure
+## Project Structure
 Here's an overview of the project's structure:
 
-csharp
+
 Copy code
 ├── app/
 │   ├── dashboard/
@@ -45,27 +45,37 @@ Copy code
 ├── components/                # Reusable components
 ├── public/                    # Static assets
 └── package.json               # Project dependencies
-Deployment
+
+
+
+## Deployment
+
 This application can be deployed on any platform that supports Next.js applications, such as:
 
-Vercel (Recommended)
-Netlify
-AWS Amplify
+- Vercel (Recommended)
+- Netlify
+- AWS Amplify
+
 For the easiest deployment experience, we recommend using Vercel:
 
-Push your code to a GitHub repository.
-Import your project to Vercel.
-Add your environment variables.
-Deploy!
-Contributing
+1. Push your code to a GitHub repository.
+2. Import your project to Vercel.
+3. Add your environment variables.
+4. Deploy!
+
+## Contributing
+
 We welcome contributions to improve this project. To contribute:
 
-Fork the repository.
-Create your feature branch: git checkout -b feature/amazing-feature.
-Commit your changes: git commit -m 'Add some amazing feature'.
-Push to the branch: git push origin feature/amazing-feature.
-Open a Pull Request.
-Acknowledgments
-TikTok for providing the inspiration.
-The Next.js team for creating the amazing framework.
-All contributors who help improve this project.
+1. Fork the repository.
+2. Create your feature branch: `git checkout -b feature/amazing-feature`.
+3. Commit your changes: `git commit -m 'Add some amazing feature'`.
+4. Push to the branch: `git push origin feature/amazing-feature`.
+5. Open a Pull Request.
+
+## Acknowledgments
+
+- TikTok for providing the inspiration.
+- The Next.js team for creating the amazing framework.
+- All contributors who help improve this project.
+
