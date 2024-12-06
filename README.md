@@ -2,6 +2,10 @@
 
 This project allows users to view TikTok profiles dynamically using a Next.js application.
 
+![image](https://github.com/user-attachments/assets/230b3d77-b305-409a-9c9e-76ddc6c4f061)
+[graphql](https://my-app.sanjeevshankar1234-as36.workers.dev/graphql)
+[frontend](https://tiktok-frotned.vercel.app/)
+
 ### Getting Started
 
 Follow these steps to get the project up and running locally:
