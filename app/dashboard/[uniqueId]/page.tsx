@@ -1,6 +1,5 @@
 import { gql } from "@apollo/client";
 import { initializeApollo } from "../../components/apolloclient";
-import { collectSegmentData } from "next/dist/server/app-render/collect-segment-data";
 import { ProfileHeader } from "../../components/profile-header";
 import { StatsCard } from "../../components/stats-card";
 import { PostList } from "../../components/post-list";

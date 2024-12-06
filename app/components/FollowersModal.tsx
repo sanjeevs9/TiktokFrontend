@@ -1,10 +1,5 @@
 import { X } from 'lucide-react';
 
-interface Follower {
-  avatar: string;
-  name: string;
-}
-
 interface FollowersModalProps {
   isOpen: boolean;
   onClose: () => void;
