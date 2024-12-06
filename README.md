@@ -36,7 +36,7 @@ Open your browser and go to http://localhost:3000 to see the result.
 ## Project Structure
 Here's an overview of the project's structure:
 
-
+```
 Copy code
 ├── app/
 │   ├── dashboard/
@@ -46,7 +46,7 @@ Copy code
 ├── components/                # Reusable components
 ├── public/                    # Static assets
 └── package.json               # Project dependencies
-
+```
 
 
 ## Deployment
