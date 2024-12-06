@@ -2,16 +2,16 @@
 
 This project allows users to view TikTok profiles dynamically using a Next.js application.
 
-## Getting Started
+### Getting Started
 
 Follow these steps to get the project up and running locally:
+```
+## 1. Clone the repository:
 
-### 1. Clone the repository:
-```bash
 git clone https://github.com/yourusername/tiktok-profile-viewer.git
 cd tiktok-profile-viewer
 
-2. Install dependencies:
+## 2. Install dependencies:
 You can use either npm or yarn to install the required dependencies:
 
 
@@ -20,7 +20,7 @@ or
 
 
 yarn install
-3. Run the development server:
+## 3. Run the development server:
 To start the development server, use one of the following commands:
 
 
@@ -29,9 +29,10 @@ or
 
 
 yarn dev
-4. View the application:
+## 4. View the application:
 Open your browser and go to http://localhost:3000 to see the result.
 
+```
 ## Project Structure
 Here's an overview of the project's structure:
 
